@@ -72,6 +72,11 @@ h2{
     padding-left: 20px;
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
+    transition: 0.5s;
+}
+
+.experiance-item:hover{
+    box-shadow: 10px 10px 40px rgb(19, 17, 17);
 }
 
 #full-stack{
